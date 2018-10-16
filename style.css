@@ -12,6 +12,17 @@
 
 }
 
+.navbar-brand {
+    font-family: Montserrat, sans-serif;
+    color: #FF0000;
+}
+
+.collapse li a {
+    font-family: Montserrat, sans-serif;
+    
+}
+
+
 
 /*-------------------jumbatron*/
 
@@ -25,6 +36,7 @@
     width: 100%;
     height: 100%;
     font-family: Montserrat, sans-serif;
+    
 }
 
 /*-------------------band history*/
@@ -87,6 +99,17 @@ footer {
     text-align: center;
     font-size: 40px;
     font-family: Montserrat, sans-serif;
+}
+
+/*-------------------image gallery*/
+
+.vertical img {
+    height: 300px;
+    width: 400px;
+    overflow: hidden;
+    margin: 20px;
+    
+    
 }
 
 /*-------------------media queries*/
