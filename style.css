@@ -112,6 +112,33 @@ footer {
     
 }
 
+/*-------------------music library*/
+
+.music {
+    font-family: Montserrat, sans-serif;
+    text-align: center;
+
+}
+
+.about-the-music { 
+    margin: 20px;
+    text-align: center;
+    font-family: Montserrat, sans-serif;
+}
+
+.watch {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+}
+
+.listen {
+    background-color: #D3D3D3;
+}
+
+
+
 /*-------------------media queries*/
 
 @media (min-width : 768px) {
