@@ -149,21 +149,24 @@ footer {
     width: 50%;
     margin: 20px;
     padding: 12px 2px;
+    font-family: Montserrat, sans-serif;
 }
 
 .input-details {
     padding: 50px 4px;
     margin: 20px;
     width: 50%;
+     font-family: Montserrat, sans-serif;
 }
 
 .bookhead  {
     text-align: center;
-    
+    font-family: Montserrat, sans-serif;
 }
 
 .booking-info {
     text-align: center;
+    font-family: Montserrat, sans-serif;
 }
 
 .form-group {
@@ -178,6 +181,7 @@ footer {
     padding: 10px;
     display: block;
     text-align: center;
+    font-family: Montserrat, sans-serif;
 }
 
 .btn-primary:hover {
