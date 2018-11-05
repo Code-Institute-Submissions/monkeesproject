@@ -9,7 +9,8 @@
 
 .navbar-style {
     background-color:  #A9A9A9;
-
+    color: #000000;
+    
 }
 
 .navbar-brand {
@@ -21,7 +22,7 @@
     font-family: Montserrat, sans-serif;
     
 }
-
+ 
 
 
 /*-------------------jumbatron*/
