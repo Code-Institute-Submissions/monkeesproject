@@ -30,7 +30,7 @@
 .jumbotron {
     padding: 70px;
     margin-bottom: 0px;
-    background-image: url(/project-assets/stream-1/band-assets/images/monkees.jpg);
+    background-image: url("assets/images/monkees.jpg");
     color: #FF0000;
     background-size: cover;
     background-repeat: no-repeat;
