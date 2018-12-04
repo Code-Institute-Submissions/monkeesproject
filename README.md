@@ -50,6 +50,9 @@ jQuery and Javascript  https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery
 ##Credit 
 
 ###Media 
-All the images and video used im my project was provided by the Code Institute.
+All the images and video used im my project were provided https://codeinstitute.net/
+
+###Content 
+All information about the band was sourced from https://en.wikipedia.org  
 
 
