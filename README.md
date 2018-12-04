@@ -14,11 +14,11 @@ I thought about what the band wanted to showcase and provide for potential clien
 
 
 ## Features
-Navbar- For easy navigation of the website, takes the user to where they want to be.
-Image gallery- Shows the images the band wants the client to see.
-Music Library- Users can view and listen to the bands music.
-Booking Form- Provides the user with a way to contact the band regarding booking.
-Social links- Provides the user with another means of connecting with the band and viewing additional content.
+  * Navbar- For easy navigation of the website, takes the user to where they want to be.
+  * Image gallery- Shows the images the band wants the client to see.
+  * Music Library- Users can view and listen to the bands music.
+  * Booking Form- Provides the user with a way to contact the band regarding booking.
+  * Social links- Provides the user with another means of connecting with the band and viewing additional content.
 
 ## Technologies Used 
 Bootstrap https://getbootstrap.com/ Used for styling and layout of the webpage.
@@ -27,8 +27,8 @@ jQuery and Javascript  https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery
 ## Testing
 
 ### 1. Navbar:
-       * Checked all links were working.
-       * Changed screen size to mobile size and navbar changes to dropdown.
+       *  Checked all links were working.
+       *  Changed screen size to mobile size and navbar changes to dropdown.
        * Dropdown menu didn't work as I had not included jQuery or javascript.
        *  After adding them to document dropdown menu works perfectly when in small screen.
 
