@@ -2,32 +2,15 @@
 
 /*-------------------navbar*/
 
-.navbar {
-    margin-bottom: 0;
+.navbar-default {
+    background-color: #000000;
     padding: 0;
-}
-
-.navbar-style {
-    background-color: #A9A9A9;
-
-
-}
-
-.navbar-brand {
+    margin-bottom: 0;
     font-family: Montserrat, sans-serif;
-
+    
 }
 
-.collapse li a {
-    font-family: Montserrat, sans-serif;
-
-}
-
-.nav navbar-nav {
-    color: #ffffff;
-}
-
-
+  
 /*-------------------jumbatron*/
 
 .jumbotron {
@@ -196,9 +179,11 @@ footer {
 }
 
 /*-------------------media queries*/
-
-@media (min-width: 768px) {
-    .dropdown-toggle {
-        display: none!important;
+    
+@media screen and (max-width: 600px) {
+    .collapse navbar-collapse {
+        float: none;
+        width: 100%;
+        
     }
 }
