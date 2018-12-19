@@ -29,8 +29,10 @@ jQuery and Javascript  https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery
 ### 1. Navbar:
        *  Checked all links were working.
        *  Changed screen size to mobile size and navbar changes to dropdown.
-       * Dropdown menu didn't work as I had not included jQuery or javascript.
+       *  Dropdown menu didn't work as I had not included jQuery or javascript.
        *  After adding them to document dropdown menu works perfectly when in small screen.
+       *  I have noticed that when i minimise my screen the navbar changes but when i use the 
+          inspect tool it does not. 
 
 ### 2. Music Library:
       * Inserted all audio and media files.
